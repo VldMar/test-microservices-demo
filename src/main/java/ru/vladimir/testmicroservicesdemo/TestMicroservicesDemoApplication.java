@@ -8,6 +8,7 @@ public class TestMicroservicesDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestMicroservicesDemoApplication.class, args);
+        System.out.println("some actions to spring boot-3");
     }
 
 }
