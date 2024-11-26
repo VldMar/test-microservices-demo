@@ -8,6 +8,8 @@ public class TestMicroservicesDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TestMicroservicesDemoApplication.class, args);
+        System.out.println("some git test");
+        System.out.println("new changes");
     }
 
 }
